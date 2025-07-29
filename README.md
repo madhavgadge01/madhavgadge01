@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Madhav Gadge</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;Android+Developer+from+India" />
+</h1>
+
+<h3 align="center">🚀 Android Developer | 💻 Kotlin, Java | 🎓 Computer Science Student</h3>
 <h3 align="center">An Android Developer on a mission to connect real-world needs with powerful app solutions 🚀</h3>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,xml,git,github,sqlite,vscode" />
+</p>
 
 ---
 
