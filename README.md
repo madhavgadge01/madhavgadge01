@@ -6,12 +6,7 @@
 <h3 align="center">🚀 Android Developer | 💻 Kotlin, Java | 🎓 Computer Science Student</h3>
 
 
-<!-- Optional, agar WakaTime use karo to -->
-[![Madhav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madhavgadge01&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavgadge01&theme=tokyo-night" />
-</p>
+
 
 ---
 <p align="center">
@@ -19,6 +14,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgadge01&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavgadge01&theme=tokyo-night" />
-</p>
