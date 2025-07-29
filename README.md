@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="[https://skillicons.dev/icons?i=intellij](https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg)" height="40" />
   <img src="https://skillicons.dev/icons?i=apple" height="40" />
 </p>
 
