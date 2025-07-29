@@ -55,7 +55,6 @@
 - 🛢️ **Firebase** *(Learning Phase)*  
 - 🎨 **Figma** *(Learning Phase)*  
 - 💾 **MySQL**  
-- 🧠 **C Language**  
 - 🛠️ **Git & GitHub**
 
 ---
