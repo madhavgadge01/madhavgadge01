@@ -19,22 +19,18 @@
 <p float="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-</p>
-
-### 🧠 Basic Knowledge
-<p float="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=css" height="45" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=apple" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=apple" height="45" />
 </p>
 
 ---
