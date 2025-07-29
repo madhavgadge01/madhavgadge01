@@ -4,10 +4,41 @@
 
 <h3 align="center">🚀 Android Developer | 💻 Kotlin, Java | 🎓 Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,xml,git,github,mysql,c" />
+---
+
+<h2 align="left">🚀 Skills Overview</h2>
+
+### 💪 High-Level Expertise
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" />
+  <img src="https://skillicons.dev/icons?i=xml" height="45" />
 </p>
 
+### 🔧 Comfortable With
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+</p>
+
+### 🧠 Basic Knowledge
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=intellij" height="40" />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" />
+</p>
+
+---
 ---
 
 > “Turning real-world problems into impactful Android solutions.” – *Madhav Gadge*
