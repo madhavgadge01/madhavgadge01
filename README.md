@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="/BEPb/BEPb/blob/main/assets/Bottom_up.svg"><img src="/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;"></a>
+<img src="/BEPb/BEPb/raw/main/assets/Bottom_up.svg" alt="" style="max-width: 100%;">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;Android+Developer+from+India" />
 </h1>
