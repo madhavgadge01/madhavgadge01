@@ -1,13 +1,4 @@
-<img src="https://your-image-link.com/banner.png" alt="Welcome Banner" />
-<p align="center">
-  <img src="https://img.shields.io/badge/status-updating-brightgreen" />
-  <img src="https://img.shields.io/badge/Python-3.12-pink" />
-  <img src="https://img.shields.io/badge/contributors-2-blue" />
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" />
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo" />
-</p>
-<img src="assets/tools.png" alt="Technologies I Use" />
+
         
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;Android+Developer+from+India" />
