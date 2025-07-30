@@ -1,6 +1,3 @@
-https://raw.githubusercontent.com/BEPb/BEPb/29b30ca46abd1f7c01f79d914b56ef2ab37ba3ad/assets/Bottom_up.svg
----
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;Android+Developer+from+India" />
