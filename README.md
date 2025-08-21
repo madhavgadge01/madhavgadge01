@@ -75,6 +75,7 @@
 | 🔢 **iOS Calculator** | Java · ConstraintLayout · LinearLayout | iOS-style Android calculator |
 | 📸 **Instagram Clone** | Java · RecyclerView  | Functional Instagram-like app |
 | 🧠 **MindWar Quiz App** | Java · Android Studio | Quiz-based app built for fun and learning |
+| ☕️ **Sip (Coffee App)** | Kotlin . Android Studio | Coffee Shop app built for fun and learning |
 
 </details>
 
