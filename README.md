@@ -46,7 +46,8 @@
 
 - 💻 **Java**  
 - 💻 **Kotlin**  
-- 💻 **XML**  
+- 💻 **XML**
+- 🧑🏻‍💻 **Java Script**
 - 📱 **Android Studio**  
 - 🧩 **Jetpack Components**  
 - 🎨 **UI/UX Design**  
