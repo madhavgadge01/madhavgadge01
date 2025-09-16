@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=css" height="45" />
+        <img src="https://skillicons.dev/icons?i=js" height="45" />
 </p>
 
 ### 🛠️ Tools & Technologies
