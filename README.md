@@ -16,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" />
   <img src="https://skillicons.dev/icons?i=xml" height="45" />
 </p>
-
-### 🔧 Comfortable With
 <p float="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
