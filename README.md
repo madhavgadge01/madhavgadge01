@@ -19,9 +19,11 @@
 <p float="left">
   <img src="https://skillicons.dev/icons?i=c" height="45" />
   <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+</p>
+        <p float="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=css" height="45" />
-        <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" />
 </p>
 
 ### 🛠️ Tools & Technologies
