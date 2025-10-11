@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;software+Developer+from+India" />
 </h1>
 
-<h3 align="center">🚀 software Developer | 💻 Kotlin, Java, C++, C,Java Script | 🎓 Computer Science Student</h3>
+<h3 align="center">🚀 software Developer (Android Dev)| 💻 Kotlin, Java, C++, C,Java Script, Frontend Dev | 🎓 Computer Science Student</h3>
 
 ---
 
