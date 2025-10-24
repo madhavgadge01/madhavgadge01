@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;software+Developer+from+India" />
 </h1>
 
-<h3 align="center">🚀 software Developer (Android Dev)| 💻 Kotlin, Java, C++, C,Java Script, Frontend Dev | 🎓 Computer Science Student</h3>
+<h3 align="center">🚀 software Developer (Android Dev)| 💻 Kotlin, Java, Jetpack Components,XML | 💻 C++, C,Java Script,React Frontend Dev </h3>
 
 ---
 
@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=css" height="45" />
   <img src="https://skillicons.dev/icons?i=js" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />            
 </p>
 
 ### 🛠️ Tools & Technologies
