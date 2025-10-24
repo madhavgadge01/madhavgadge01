@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2300F7FF&size=30&center=true&vCenter=true&width=500&lines=Madhav+Gadge;software+Developer+from+India" />
 </h1>
 
-<h3 align="center">🚀 software Developer | Frontend Web Dev | Android Dev | </h3>
+<h3 align="center">🚀 software Developer | Frontend Web Dev | Android Dev  </h3>
 
 ---
 
@@ -48,10 +48,15 @@
 
 ## 🔧 Tech Stack & Tools
 
-- 💻 **Java**  
+- 🧑🏻‍💻 **HTML**
+- 🎨 **CSS**
+- 🛠️ **Java Script**
+- 💻 **React** 
+- 🧑🏻‍💻 **Java**  
 - 💻 **Kotlin**  
 - 💻 **XML**
-- 🧑🏻‍💻 **Java Script**
+- 🧑🏻‍💻 **C **
+- 🧑🏻‍💻 **C++ **
 - 📱 **Android Studio**  
 - 🧩 **Jetpack Components**  
 - 🎨 **UI/UX Design**  
@@ -72,7 +77,7 @@
 ---
 
 ## <details>
-<summary>🚀 Projects (Click to expand)</summary>
+<summary>🚀 Projects </summary>
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
