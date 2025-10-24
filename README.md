@@ -11,21 +11,23 @@
 <h2 align="left">🚀 Skills Overview</h2>
 
 ### 💪 High-Level Expertise
+
 <p float="left">
-  <img src="https://skillicons.dev/icons?i=java" height="45" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" />
-  <img src="https://skillicons.dev/icons?i=xml" height="45" />
-</p>
-<p float="left">
-  <img src="https://skillicons.dev/icons?i=c" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-</p>
-        <p float="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" />
   <img src="https://skillicons.dev/icons?i=css" height="45" />
   <img src="https://skillicons.dev/icons?i=js" height="45" />
   <img src="https://skillicons.dev/icons?i=react" height="45" />            
 </p>
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" />
+  <img src="https://skillicons.dev/icons?i=sql" height="45" />
+</p>
+<p float="left">
+  <img src="https://skillicons.dev/icons?i=c" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+</p>
+
 
 ### 🛠️ Tools & Technologies
 <p float="left">
