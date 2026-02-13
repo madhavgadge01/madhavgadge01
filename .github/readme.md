@@ -6,10 +6,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhavgadge01.madhavgadge01" />
-</div>
-
 <h1 align="center">Hey there 👋 I'm Madhav</h1>
 
 <h3 align="center">🚀 Full Stack Web Developer | Backend Enthusiast</h3>
@@ -74,6 +70,7 @@ Currently focused on strengthening my backend development skills, authentication
   <a href="mailto:madhavgadge01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madhavgadge01.madhavgadge01&style=for-the-badge"/>
 </p>
 
 ---
