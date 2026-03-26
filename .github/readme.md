@@ -74,9 +74,3 @@ Currently focused on strengthening my backend development skills, authentication
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhavgadge01/madhavgadge01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhavgadge01/madhavgadge01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/madhavgadge01/madhavgadge01/output/pacman-contribution-graph.svg">
-</picture>
