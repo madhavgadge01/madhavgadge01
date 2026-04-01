@@ -8,21 +8,22 @@
 
 <h1 align="center">Hey there 👋 I'm Madhav</h1>
 
-<h3 align="center">🚀 Full Stack Web Developer | Backend Enthusiast</h3>
+<h3 align="center">🚀 Backend Web Developer | evenjo.in  </h3>
 
 ---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I am a Full Stack Web Developer passionate about building real-world, scalable web applications.  
+I am a Backend Web Developer passionate about building real-world, scalable web applications.  
 I enjoy designing backend systems, creating REST APIs, and connecting databases with dynamic frontend interfaces.  
+I am co-founder of evenjo
 
 Currently focused on strengthening my backend development skills, authentication systems, and scalable architecture.
 </p>
 
 <ul>
-  <li>💻 Building full-stack web applications</li>
+  <li>💻 Building backend web applications</li>
   <li>🔐 Interested in authentication & backend logic</li>
   <li>📚 Continuously learning system design concepts</li>
   <li>🚀 Goal: Become a strong backend-focused developer</li>
