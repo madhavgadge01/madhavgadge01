@@ -8,11 +8,11 @@
 
 <h1 align="center">Hey there 👋 I'm Madhav</h1>
 
-<h3 align="center">🚀 Backend Web Developer | evenjo.in  </h3>
+<h3 align="center">Backend Web Developer | evenjo.in  </h3>
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 I am a Backend Web Developer passionate about building real-world, scalable web applications.  
@@ -23,10 +23,10 @@ Currently focused on strengthening my backend development skills, authentication
 </p>
 
 <ul>
-  <li>💻 Building backend web applications</li>
-  <li>🔐 Interested in authentication & backend logic</li>
-  <li>📚 Continuously learning system design concepts</li>
-  <li>🚀 Goal: Become a strong backend-focused developer</li>
+  <li> Building backend web applications</li>
+  <li> Interested in authentication & backend logic</li>
+  <li> Continuously learning system design concepts</li>
+  <li> Goal: Become a strong backend-focused developer</li>
 </ul>
 
 ---
@@ -51,7 +51,7 @@ Currently focused on strengthening my backend development skills, authentication
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left"> My Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=madhavgadge01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
@@ -59,7 +59,7 @@ Currently focused on strengthening my backend development skills, authentication
 
 ---
 
-## 🌐 Social Links
+##  Social Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhav-gadge-610177343">
