@@ -57,9 +57,8 @@ Currently focused on strengthening my backend development skills, authentication
 
 ### Badges
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/madhavgadge01">
-  <img src="https://github.readme-streak-stats.herokuapp.com/?user=madhavgadge01&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+
+<a href="http://www.github.com/madhavgadge01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgadge01&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 
