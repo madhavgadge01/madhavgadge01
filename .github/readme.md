@@ -66,10 +66,6 @@ Currently focused on strengthening my backend development skills, authentication
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madhavgadge01/madhavgadge01/output/space-shooter.svg" alt="Madhav's Space Shooter Contribution Graph" width="100%" />
-</p>
-
 ##  Social Links
 
 <p align="center">
