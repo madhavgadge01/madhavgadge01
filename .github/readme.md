@@ -67,7 +67,7 @@ Currently focused on strengthening my backend development skills, authentication
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/madhavgadge01/madhavgadge01/output/space-shooter.svg" alt="Madhav's Space Shooter Contribution Graph" width="100%" />
 </p>
 
 ##  Social Links
