@@ -67,7 +67,7 @@ Currently focused on strengthening my backend development skills, authentication
 
 
 <p align="center">
-  <img src="profile-3d-city.svg" alt="3D City GitHub Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ##  Social Links
