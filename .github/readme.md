@@ -67,6 +67,8 @@ Currently focused on strengthening my backend development skills, authentication
 
 ---
 
+<img src="profile-3d-city.svg" alt="3D City GitHub Contribution Graph" width="100%">
+
 ##  Social Links
 
 <p align="center">
