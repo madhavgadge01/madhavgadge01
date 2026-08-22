@@ -59,8 +59,8 @@ Currently focused on strengthening my backend development skills, authentication
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="https://app.daily.dev/madhavgadge01">
-    <img src="https://api.daily.dev/devcards/v2/BndmN5hA1K2Qn4zXyP8rJ.png?type=default&r=7b2" width="356" alt="Madhav's Dev Card"/>
+  <a href="https://github.com/madhavgadge01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavgadge01&theme=dark&hide_border=true" alt="Madhav's GitHub Streak" width="49%" />
   </a>
 </p>
 
