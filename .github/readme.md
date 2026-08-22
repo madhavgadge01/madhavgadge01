@@ -59,10 +59,7 @@ Currently focused on strengthening my backend development skills, authentication
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhavgadge01&theme=dark&hide_border=true&cache_seconds=86400" alt="madhavgadge01's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavgadge01&theme=dark&hide_border=true&show_icons=true" alt="madhavgadge01's GitHub Stats" width="49%" />
 </p>
 
 
