@@ -59,8 +59,8 @@ Currently focused on strengthening my backend development skills, authentication
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madhavgadge01&theme=onedark&no-frame=true" alt="Trophies" />
+  <a href="https://app.daily.dev/madhavgadge01">
+    <img src="https://api.daily.dev/devcards/v2/BndmN5hA1K2Qn4zXyP8rJ.png?type=default&r=7b2" width="356" alt="Madhav's Dev Card"/>
   </a>
 </p>
 
