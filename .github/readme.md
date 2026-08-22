@@ -59,7 +59,7 @@ Currently focused on strengthening my backend development skills, authentication
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavgadge01&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://metrics.lecoq.io/madhavgadge01?config.timezone=Asia%2FKolkata" alt="Metrics" />
 </p>
 
 
