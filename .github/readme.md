@@ -59,7 +59,9 @@ Currently focused on strengthening my backend development skills, authentication
 <b>My GitHub Stats</b>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/madhavgadge01?config.timezone=Asia%2FKolkata" alt="Metrics" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=madhavgadge01&theme=onedark&no-frame=true" alt="Trophies" />
+  </a>
 </p>
 
 
